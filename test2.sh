@@ -3,7 +3,7 @@
 #set -x  # Enable debugging mode
 
 SLACK_WEBHOOK_URL="${SLACK_WEBHOOK_URL}"
-DOMAINS_FILE="/root/PearlThoughts/domains.txt"
+DOMAINS_FILE="domains.txt"
 
 echo "Starting SSL Expiry Check"
 
