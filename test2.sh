@@ -2,7 +2,7 @@
 
 #set -x  # Enable debugging mode
 
-SLACK_WEBHOOK_URL="https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL="${SLACK_WEBHOOK_URL}"
 DOMAINS_FILE="/root/PearlThoughts/domains.txt"
 
 echo "Starting SSL Expiry Check"
